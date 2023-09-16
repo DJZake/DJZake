@@ -4,7 +4,7 @@ DJZake/DJZake is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center"> 
-  <img src="https://github.com/DJZake/DJZake/blob/main/name.png" alt="Zake" />
+  <img src="https://github.com/DJZake/DJZake/blob/main/name.jpg" alt="Zake" />
 </div><br>
 
 ## 🔥 Some facts about me:
