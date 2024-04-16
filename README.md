@@ -27,3 +27,12 @@ You can click the Preview link to take a look at your changes.
 
 ## Website
 <li>👀 Take a look at <a href="https://alenjoseph.me" target="_blank">My Portfolio</a></li>
+<h3 align="center">My Github Stats</h3>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalbingeorge&show_icons=true&locale=en&layout=compact" alt="itsalbingeorge" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsalbingeorge&show_icons=true&locale=en" alt="itsalbingeorge" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsalbingeorge&" alt="itsalbingeorge" /></p>
+<b>Note:</b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
