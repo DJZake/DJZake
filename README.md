@@ -10,12 +10,12 @@ You can click the Preview link to take a look at your changes.
 ## 🔥 Some facts about me:
 
 * 🎓 Pursuing BTech in Computer Science Engineering
-* ✌️ Cyber Security,Computer Network
+* ✌️ Frontend Development,Cyber Security,Computer Network
 * 🌱 I’m currently focusing on Web Development, Python
 
 
  ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,c,vscode,linux,javascript)]()
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,java,c,vscode,linux,javascript,bootstrap)]()
 
 
 
@@ -29,10 +29,10 @@ You can click the Preview link to take a look at your changes.
 <li>👀 Take a look at <a href="https://alenjoseph.me" target="_blank">My Portfolio</a></li>
 <h3 align="center">My Github Stats</h3>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsalbingeorge&show_icons=true&locale=en&layout=compact" alt="itsalbingeorge" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DJZake&show_icons=true&locale=en&layout=compact" alt="DJZake" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsalbingeorge&show_icons=true&locale=en" alt="itsalbingeorge" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DJZake&show_icons=true&locale=en" alt="DJZake" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsalbingeorge&" alt="itsalbingeorge" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DJZake&" alt="DJZake" /></p>
 <b>Note:</b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
